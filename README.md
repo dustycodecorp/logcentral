@@ -1,8 +1,8 @@
 # LogCentral
 A web app to keep all yours logs in one place!
 
-<a href="https://raw.githubusercontent.com/dustycodecorp/dustycode-page/gh-pages/screenshots/logcentral/dashboard.png">
-<img src="https://raw.githubusercontent.com/dustycodecorp/dustycode-page/gh-pages/screenshots/logcentral/dashboard.png" width="800">
+<a href="https://dustycode.com/img/screenshots/logcentral/dashboard.png">
+<img src="https://dustycode.com/img/screenshots/logcentral/dashboard.png" width="800">
 </a>
 
 
